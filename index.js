@@ -66,7 +66,7 @@
                     // Route based on role
                     if (found.role === 'ADMIN') window.location.hash = '#/admin';
                     else if (found.role === 'OFFICER') window.location.hash = '#/officer';
-                    else window.location.hash = '#/dashboard';
+                    else window.location.hash = '#/dashboard'; 
                     return true;
                 }
                 return false;
