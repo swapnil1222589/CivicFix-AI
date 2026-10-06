@@ -10,7 +10,7 @@
         }
     </script>
 </head>
-<body>
+<body>  
     <div id="root"></div>
 
     <script type="text/babel">
