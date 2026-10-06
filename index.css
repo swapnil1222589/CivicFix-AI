@@ -8,7 +8,7 @@
 
         ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 4px; }
         ::-webkit-scrollbar-thumb:hover { background: #94a3b8; } 
-        
+         
         /* Hide leaflet controls for cleaner look in some views */
         .leaflet-control-attribution { display: none !important; }
 /* .leaflet-control-attribution { display: none !important; }/*  */ 
