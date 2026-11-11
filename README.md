@@ -9,7 +9,7 @@ The project is built using **HTML, CSS, and JavaScript**, making it lightweight,
 ---
 
 ## 🌍 Problem
-
+ 
 Citizens face many everyday civic problems such as:
 
 * Potholes
