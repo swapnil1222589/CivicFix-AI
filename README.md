@@ -51,7 +51,7 @@ Resolution
  
 ---
 
-# ✨ Features
+# ✨ Features 
 
 ## 👤 Citizen
  
