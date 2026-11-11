@@ -54,7 +54,7 @@ Resolution
 # ✨ Features
 
 ## 👤 Citizen
-
+ 
 Citizens can:
 
 * Report civic issues
