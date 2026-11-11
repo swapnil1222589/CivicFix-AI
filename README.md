@@ -38,7 +38,7 @@ Add Description
    ↓
 Upload Evidence
    ↓
-AI Analysis
+AI Analysis 
    ↓
 Priority Detection
    ↓
