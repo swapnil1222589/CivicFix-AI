@@ -24,7 +24,7 @@ Citizens face many everyday civic problems such as:
 Reporting these problems can be difficult, and citizens often don't know whether their complaint has been received or resolved.
 
 ---
-
+ 
 ## 💡 Solution
 
 CivicFix AI provides a simple digital workflow:
