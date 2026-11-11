@@ -4,7 +4,7 @@
 
 CivicFix AI is a modern web application that helps citizens report local civic problems and enables administrators to track, prioritize, and manage those issues through a centralized dashboard.
 
-The project is built using **HTML, CSS, and JavaScript**, making it lightweight, easy to run, and suitable for hackathons, demonstrations, and future expansion.
+The project is built using **HTML, CSS, and JavaScript**, making it lightweight, easy to run, and suitable for hackathons, demonstrations, and future expansion. 
 
 ---
 
