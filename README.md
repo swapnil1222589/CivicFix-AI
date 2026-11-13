@@ -1,4 +1,4 @@
-# 🚦 CivicFix AI
+# 🚦 CivicFix AI  
 
 ### AI-Powered Civic Issue Reporting & Management Platform
 
