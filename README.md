@@ -29,7 +29,7 @@ Reporting these problems can be difficult, and citizens often don't know whether
 
 CivicFix AI provides a simple digital workflow: 
 
-```text
+```text 
 Citizen
    ↓
 Report Issue
