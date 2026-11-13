@@ -61,7 +61,7 @@ Citizens can:
 * Select an issue category
 * Add a description
 * Upload an image
-* Provide location
+* Provide location 
 * Get AI-style issue analysis
 * View issue priority
 * Track complaint status
