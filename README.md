@@ -69,7 +69,7 @@ Citizens can:
 
 ---
 
-## 🤖 AI Issue Analysis
+## 🤖 AI Issue Analysis  
 
 CivicFix AI analyzes the submitted issue and provides:
 
