@@ -1,6 +1,6 @@
 # 🚦 CivicFix AI  
 
-### AI-Powered Civic Issue Reporting & Management Platform
+### AI-Powered Civic Issue Reporting & Management Platform 
 
 CivicFix AI is a modern web application that helps citizens report local civic problems and enables administrators to track, prioritize, and manage those issues through a centralized dashboard. 
 
