@@ -40,7 +40,7 @@ Upload Evidence
    ↓
 AI Analysis 
    ↓
-Priority Detection
+Priority Detection 
    ↓
 Department Assignment
    ↓
