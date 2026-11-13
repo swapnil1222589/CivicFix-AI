@@ -27,7 +27,7 @@ Reporting these problems can be difficult, and citizens often don't know whether
   
 ## 💡 Solution
 
-CivicFix AI provides a simple digital workflow:
+CivicFix AI provides a simple digital workflow: 
 
 ```text
 Citizen
