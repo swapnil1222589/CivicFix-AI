@@ -21,7 +21,7 @@ Citizens face many everyday civic problems such as:
 * Traffic signal issues
 * Illegal dumping
 
-Reporting these problems can be difficult, and citizens often don't know whether their complaint has been received or resolved.
+Reporting these problems can be difficult, and citizens often don't know whether their complaint has been received or resolved. 
 
 ---
   
