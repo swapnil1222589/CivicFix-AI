@@ -16,7 +16,7 @@ Citizens face many everyday civic problems such as:
 * Garbage
 * Broken streetlights
 * Water leakage
-* Damaged roads
+* Damaged roads 
 * Drainage problems
 * Traffic signal issues
 * Illegal dumping
