@@ -86,7 +86,7 @@ Example:
 Detected Issue: Pothole
 
 Severity: HIGH
-Priority: P1
+Priority: P1 
 
 Recommended Department:
 Roads Department
