@@ -59,7 +59,7 @@ Citizens can:
 
 * Report civic issues
 * Select an issue category
-* Add a description
+* Add a description 
 * Upload an image
 * Provide location 
 * Get AI-style issue analysis
