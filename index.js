@@ -77,7 +77,7 @@
                 window.location.hash = '#/login';
             };
 
-            return (
+            return ( 
                 <AuthContext.Provider value={{ user, login, logout }}>
                     {children}
                 </AuthContext.Provider>
