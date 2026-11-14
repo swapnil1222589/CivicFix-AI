@@ -35,7 +35,7 @@
         const PRIORITIES = ['P3', 'P2', 'P1', 'P0']; // P0 is critical
 
         const INITIAL_USERS = [
-            { id: 'u1', full_name: 'Jane Citizen', email: 'citizen@demo.com', role: 'CITIZEN' },
+            { id: 'u1', full_name: 'Jane Citizen', email: 'citizen@demo.com', role: 'CITIZEN' }, 
             { id: 'u2', full_name: 'Admin User', email: 'admin@demo.com', role: 'ADMIN' },
             { id: 'u3', full_name: 'Officer Bob', email: 'officer@demo.com', role: 'OFFICER', department_id: 'd1' }
         ];
