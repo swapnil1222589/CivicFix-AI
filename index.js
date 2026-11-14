@@ -8,7 +8,7 @@
                 }
             }
         }
-    </script>
+    </script> 
 </head>
 <body>  
     <div id="root"></div>
