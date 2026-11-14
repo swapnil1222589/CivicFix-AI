@@ -72,7 +72,7 @@
                 return false;
             };
 
-            const logout = () => {
+            const logout = () => { 
                 setUser(null);
                 window.location.hash = '#/login';
             };
