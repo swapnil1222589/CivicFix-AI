@@ -85,7 +85,7 @@ Example:
 ```text
 Detected Issue: Pothole
 
-Severity: HIGH
+Severity: HIGH 
 Priority: P1 
 
 Recommended Department:
