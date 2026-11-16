@@ -95,7 +95,7 @@ Suggested Action:
 Inspect and repair the damaged road.
 ```
 
-> The current static version can use demo/fallback AI logic. A real AI API can be connected later.
+> The current static version can use demo/fallback AI logic. A real AI API can be connected later. 
 
 ---
 
