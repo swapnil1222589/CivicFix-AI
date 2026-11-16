@@ -10,7 +10,7 @@ The project is built using **HTML, CSS, and JavaScript**, making it lightweight,
 
 ## 🌍 Problem 
  
-Citizens face many everyday civic problems such as: 
+Citizens face many everyday civic problems such as:  
 
 * Potholes 
 * Garbage 
@@ -30,7 +30,7 @@ Reporting these problems can be difficult, and citizens often don't know whether
 CivicFix AI provides a simple digital workflow:  
 
 ```text 
-Citizen
+Citizen 
    ↓
 Report Issue
    ↓
