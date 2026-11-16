@@ -44,7 +44,7 @@ Priority Detection
    ↓
 Department Assignment
    ↓
-Issue Tracking
+Issue Tracking 
    ↓
 Resolution
 ```
