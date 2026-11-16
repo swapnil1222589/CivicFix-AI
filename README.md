@@ -36,7 +36,7 @@ Report Issue
    ↓
 Add Description
    ↓
-Upload Evidence
+Upload Evidence 
    ↓
 AI Analysis 
    ↓
