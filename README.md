@@ -32,7 +32,7 @@ CivicFix AI provides a simple digital workflow:
 ```text 
 Citizen 
    ↓
-Report Issue
+Report Issue 
    ↓
 Add Description
    ↓
