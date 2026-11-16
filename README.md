@@ -105,7 +105,7 @@ The admin dashboard provides:
 
 * Total issues
 * Pending issues
-* High-priority issues
+* High-priority issues 
 * Resolved issues
 * Issue categories
 * Issue status
