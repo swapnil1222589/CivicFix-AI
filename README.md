@@ -53,7 +53,7 @@ Resolution
 
 # ✨ Features 
 
-## 👤 Citizen
+## 👤 Citizen 
  
 Citizens can:
 
