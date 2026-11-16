@@ -12,7 +12,7 @@ The project is built using **HTML, CSS, and JavaScript**, making it lightweight,
  
 Citizens face many everyday civic problems such as: 
 
-* Potholes
+* Potholes 
 * Garbage
 * Broken streetlights
 * Water leakage
