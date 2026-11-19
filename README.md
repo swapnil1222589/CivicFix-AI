@@ -43,7 +43,7 @@ AI Analysis
 Priority Detection 
    ↓
 Department Assignment
-   ↓
+   ↓ 
 Issue Tracking 
    ↓ 
 Resolution
